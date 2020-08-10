@@ -1,0 +1,15 @@
+{
+    "name": "purelightme/demo-package",
+    "description": "satis demo package",
+    "authors": [
+        {
+            "name": "purelightme"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Purelightme\\Demo\\": "src/"
+        }
+    }
+}
